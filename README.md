@@ -38,12 +38,3 @@ Mindset: Precision over Noise
 - Backtracking
 
 ---
-
-## Competitive Programming Routine
-
-```cpp
-while (improving) {
-    solve();
-    analyze();
-    optimize();
-}
