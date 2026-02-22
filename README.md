@@ -1,40 +1,49 @@
 <h1 align="center">I3althazar</h1>
 <p align="center">
-  Competitive Programmer • Algorithm Enthusiast • Computer Engineering Student
+  Competitive Programmer • Algorithm & Data Structure Focus
 </p>
 
 ---
 
-## About
+## Profile
 
-Computer Engineering student with a strong interest in:
+Focused on building strong foundations in:
 
-- Algorithms
+- Algorithm Design
 - Data Structures
-- Problem Solving
-- Systems Thinking
+- Memory Management
 - Performance Optimization
+- System-Level Thinking
 
-Focused on writing clean, efficient, and maintainable code.
-
----
-
-## Tech Stack
-
-- **Languages:** C, C++, Python
-- **Tools:** Git, Linux, VS Code
-- **Paradigm:** Structured Programming, Object-Oriented Programming
-- **Core Skills:** Pointer Manipulation, Memory Management, File I/O
+Style: Minimal • Efficient • Clean  
+Mindset: Precision over Noise
 
 ---
 
-## Competitive Programming
+## Technical Skills
+
+**Languages**
+- C
+- C++
+- Python
+
+**Core Concepts**
+- Pointer Manipulation
+- Dynamic Memory Allocation
+- File I/O
+- Object-Oriented Programming
+- Divide and Conquer
+- Greedy Algorithms
+- Dynamic Programming
+- Backtracking
+
+---
+
+## Competitive Programming Routine
 
 ```cpp
-while (true) {
-    read_problem();
-    design_solution();
-    implement();
+while (improving) {
+    solve();
+    analyze();
     optimize();
-    submit();
 }
