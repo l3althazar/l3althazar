@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm l3althazar</h1>
 <h3 align="center">Competitive Programmer • Algorithm & Data Structure Focus</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l3althazar" alt="l3althazar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
